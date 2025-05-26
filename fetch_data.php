@@ -106,9 +106,9 @@
 
         <?php
         // Database connection details
-        $host = 'localhost:4306'; // Double-check if this is the correct port
-        $dbname = 'unauthorizedconstructions';
-        $username = 'root'; 
+        $host = ''; // Double-check if this is the correct port
+        $dbname = '';
+        $username = ''; 
         $password = ''; 
 
         try {
