@@ -106,9 +106,9 @@
 
         <?php
         // Database connection details
-        $host = ''; // Double-check if this is the correct port
-        $dbname = '';
-        $username = ''; 
+        $host = 'loacal'; // Double-check if this is the correct port
+        $dbname = 'db';
+        $username = 'h'; 
         $password = ''; 
 
         try {
